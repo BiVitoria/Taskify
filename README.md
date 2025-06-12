@@ -1,8 +1,30 @@
-# React + Vite
+# 📝 Taskify – Gerenciador de Tarefas com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **Taskify**, um aplicativo simples e funcional de gerenciamento de tarefas desenvolvido com React!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Visão Geral
+
+Taskify permite:
+- ➕ Adicionar tarefas com título e descrição.
+- ✅ Marcar tarefas como concluídas.
+- 🗑️ Remover tarefas.
+- 💾 Persistência local usando Local Storage.
+- 🎨 Interface responsiva e moderna.
+
+---
+
+## Tecnologias
+
+- **Front-end**  
+  - React (Vite)  
+  - Tailwind/CSS   
+  - React Icons
+- **Storage**  
+  - LocalStorage para salvar tarefas no navegador
+
+---
+
+
+
